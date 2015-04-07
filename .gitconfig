@@ -1,0 +1,17 @@
+[credential]
+	helper = osxkeychain
+[user]
+	name = Boxuan Guan
+	email = boxuanguan@gmail.com
+[filter "hawser"]
+	clean = git hawser clean %f
+	smudge = git hawser smudge %f
+	required = true
+[push]
+	default = simple
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	
