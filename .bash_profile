@@ -13,3 +13,15 @@ alias ll="ls -l"
 alias la="ls -al"
 alias aa="source ~/.bash_profile"
 alias al="sublime ~/.bash_profile"
+
+################
+## git alias ###
+################
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit '
+alias gd='git diff'
+alias go='git checkout '
+alias g='git '
+
